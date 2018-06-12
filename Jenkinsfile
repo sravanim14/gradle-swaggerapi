@@ -34,7 +34,7 @@ node {
       artifacts: [
         [artifactId: 'springbootapp-pipeline',
          classifier: '',
-         file: 'build/libs/springbootapp-pipeline-0.0.1-SNAPSHOT.jar',
+         file: 'build/libs/Spring_RESTAPI-0.0.1-SNAPSHOT.jar',
          type: 'jar']
       ]
     )  
