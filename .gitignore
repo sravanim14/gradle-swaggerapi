@@ -1,0 +1,14 @@
+# Build Artifacts
+
+.gradle/
+build/
+target/
+bin/
+!gradle/wrapper/gradle-wrapper.jar
+
+
+# Eclipse Project Files
+
+.classpath
+.project
+.settings/
